@@ -8,7 +8,7 @@ This is a minimal Electron application based on the [Quick Start Guide](https://
 
 ```
 ### Clone this repository
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/paloblanco/electronPlay
 ### Go into the repository
 cd electron-quick-start
 ### Install dependencies
