@@ -6,7 +6,7 @@ const TabGroup = require("electron-tabs");
 
 let tabGroup = new TabGroup();
 let tab = tabGroup.addTab({
-    title: "Electron",
+    title: "My App",
     src: "http://electron.atom.io",
     visible: true
 });
