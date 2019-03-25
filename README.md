@@ -10,7 +10,7 @@ This is a minimal Electron application based on the [Quick Start Guide](https://
 ### Clone this repository
 git clone https://github.com/paloblanco/electronPlay.git
 ### Go into the repository
-cd electron-quick-start
+cd electronPlay
 ### Install dependencies
 npm install
 ### Run the app
